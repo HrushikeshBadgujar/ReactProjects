@@ -6,7 +6,7 @@ class Login extends Component {
     render() {
         return (
             <Form>
-                <h3>Log in</h3>
+                {/* <h3>Log in</h3> */}
 
                 <FormGroup controlId="formBasicEmail">
                     <FormLabel>Email</FormLabel>
